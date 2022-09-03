@@ -66,6 +66,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamNgocSonTech&show_icons=true&theme=radical)
 
 </div>
+
+### :fire: My Card :
+<div id="dev-card">
+
+<a href="https://app.daily.dev/SonAquarius"><img src="https://api.daily.dev/devcards/96648dd8bf2840a791558c681a506f5e.png?r=0nv" width="400" alt="PhamNgocSon's Dev Card"/></a>
+</div>
 <!--
 **PhamNgocSonTech/PhamNgocSonTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
