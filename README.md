@@ -33,11 +33,9 @@
 <div id="about-me">
   :star: About Me:
   
-- :telescope: I’m working as a Software Engineer and contributing to backend and frotnend for building web applications.
-
+- :telescope: I’m working as a Game Developer
 - :writing_hand: Exploring Technical Content Writing.
-
-- :muscle: In my free time, I solve problems on code and read tech articles.
+- :muscle: In my free time, I solve problems on code and play games.
 
 </div>
 
